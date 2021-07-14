@@ -38,7 +38,7 @@ a{
 }
 .banner img:hover{
     transform: rotate(360deg);
-    transition: transform 1.5s;
+    transition: transform 2s;
 }
 /*-------------
  header-style finish
@@ -210,6 +210,10 @@ media-query-style start
     .extra-section-2 iframe{
         width: 360px;
         margin: 10px 0 58px 0;
+    }
+
+    footer{
+        margin-top: -178px;
     }
     footer img{
         width: 125.8px;
